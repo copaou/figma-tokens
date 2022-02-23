@@ -1931,6 +1931,16 @@
           "value": "#00966E",
           "type": "color"
         }
+      },
+      "HR": {
+        "A": {
+          "value": "#DA2A2B",
+          "type": "color"
+        },
+        "B": {
+          "value": "#1E457D",
+          "type": "color"
+        }
       }
     }
   }
