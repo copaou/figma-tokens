@@ -1583,6 +1583,10 @@
         "value": "{size.S-screen.M}",
         "type": "borderRadius"
       },
+      "S": {
+        "value": "{size.S-screen.S}",
+        "type": "borderRadius"
+      },
       "XL": {
         "value": "{size.S-screen.XL}",
         "type": "borderRadius"
