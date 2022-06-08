@@ -1998,7 +1998,7 @@
       },
       "text": {
         "dark": {
-          "value": "#3e4047",
+          "value": "{Tertiary.500 (Base)}",
           "type": "color"
         }
       },
