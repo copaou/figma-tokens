@@ -2259,6 +2259,11 @@
         "value": "#000000",
         "type": "color"
       }
+    },
+    "max content width": {
+      "value": "1020",
+      "type": "sizing",
+      "description": "This is the max width that text content should have"
     }
   },
   "$themes": []
