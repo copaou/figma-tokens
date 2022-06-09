@@ -407,7 +407,7 @@
         },
         "P": {
           "M": {
-            "value": "round({fs.S-screen.P.M} * 1.5)",
+            "value": "round({fs.S-screen.P.M} * 1.7)",
             "type": "lineHeights"
           },
           "S": {
@@ -475,11 +475,11 @@
         },
         "P": {
           "M": {
-            "value": "round({fs.XL-screen.P.M} * 1.5)",
+            "value": "round({fs.XL-screen.P.M} * 1.7)",
             "type": "lineHeights"
           },
           "S": {
-            "value": "round({fs.XL-screen.P.S} * 1.5)",
+            "value": "round({fs.XL-screen.P.S} * 1.65)",
             "type": "lineHeights"
           },
           "XS": {
