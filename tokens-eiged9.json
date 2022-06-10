@@ -1548,20 +1548,20 @@
     },
     "space": {
       "S-screen": {
-        "S": {
-          "value": "{size.S-screen.S}",
-          "type": "spacing"
-        },
-        "XS": {
-          "value": "{size.S-screen.XS}",
+        "3XS": {
+          "value": "{size.S-screen.3XS}",
           "type": "spacing"
         },
         "2XS": {
           "value": "{size.S-screen.2XS}",
           "type": "spacing"
         },
-        "3XS": {
-          "value": "{size.S-screen.3XS}",
+        "XS": {
+          "value": "{size.S-screen.XS}",
+          "type": "spacing"
+        },
+        "S": {
+          "value": "{size.S-screen.S}",
           "type": "spacing"
         },
         "M": {
@@ -1586,20 +1586,20 @@
         }
       },
       "XL-screen": {
-        "S": {
-          "value": "{size.XL-screen.S}",
-          "type": "spacing"
-        },
-        "XS": {
-          "value": "{size.XL-screen.XS}",
+        "3XS": {
+          "value": "{size.XL-screen.3XS}",
           "type": "spacing"
         },
         "2XS": {
           "value": "{size.XL-screen.2XS}",
           "type": "spacing"
         },
-        "3XS": {
-          "value": "{size.XL-screen.3XS}",
+        "XS": {
+          "value": "{size.XL-screen.XS}",
+          "type": "spacing"
+        },
+        "S": {
+          "value": "{size.XL-screen.S}",
           "type": "spacing"
         },
         "M": {
