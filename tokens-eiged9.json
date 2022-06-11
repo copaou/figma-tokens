@@ -771,6 +771,20 @@
           },
           "type": "typography",
           "description": "For mottos and large text"
+        },
+        "D-H2": {
+          "value": {
+            "fontFamily": "{ff.archivo}",
+            "fontWeight": "{fw.light}",
+            "lineHeight": "{lh.S-screen.H2}",
+            "fontSize": "{fs.S-screen.H2}",
+            "letterSpacing": "{ls.0}",
+            "paragraphSpacing": "{ps.S-screen.H2}",
+            "textCase": "{tc.none}",
+            "textDecoration": "{td.none}"
+          },
+          "type": "typography",
+          "description": "For mottos and large text"
         }
       },
       "XL-screen": {
