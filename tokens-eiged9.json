@@ -361,7 +361,7 @@
         "value": "Archivo",
         "type": "fontFamilies"
       },
-      "nunito": {
+      "OpenSans": {
         "value": "Open Sans",
         "type": "fontFamilies"
       }
@@ -1078,7 +1078,7 @@
       "S-screen": {
         "Medium - regular": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.S-screen.P.M}",
             "fontSize": "{fs.S-screen.P.M}",
@@ -1091,7 +1091,7 @@
         },
         "Medium - regular undeline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.S-screen.P.M}",
             "fontSize": "{fs.S-screen.P.M}",
@@ -1104,7 +1104,7 @@
         },
         "Medium - bold": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.S-screen.P.M}",
             "fontSize": "{fs.S-screen.P.M}",
@@ -1117,7 +1117,7 @@
         },
         "Medium - bold underline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.S-screen.P.M}",
             "fontSize": "{fs.S-screen.P.M}",
@@ -1130,7 +1130,7 @@
         },
         "Small - regular": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.S-screen.P.S}",
             "fontSize": "{fs.S-screen.P.S}",
@@ -1143,7 +1143,7 @@
         },
         "Small - regular underline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.S-screen.P.S}",
             "fontSize": "{fs.S-screen.P.S}",
@@ -1156,7 +1156,7 @@
         },
         "Small - bold": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.S-screen.P.S}",
             "fontSize": "{fs.S-screen.P.S}",
@@ -1169,7 +1169,7 @@
         },
         "Small - bold underline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.S-screen.P.S}",
             "fontSize": "{fs.S-screen.P.S}",
@@ -1182,7 +1182,7 @@
         },
         "x-Small - regular": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.S-screen.P.XS}",
             "fontSize": "{fs.S-screen.P.XS}",
@@ -1195,7 +1195,7 @@
         },
         "x-Small - regular underline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.S-screen.P.XS}",
             "fontSize": "{fs.S-screen.P.XS}",
@@ -1208,7 +1208,7 @@
         },
         "x-Small - bold": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.S-screen.P.XS}",
             "fontSize": "{fs.S-screen.P.XS}",
@@ -1221,7 +1221,7 @@
         },
         "x-Small - bold underline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.S-screen.P.XS}",
             "fontSize": "{fs.S-screen.P.XS}",
@@ -1236,7 +1236,7 @@
       "XL-screen": {
         "Medium - regular": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.XL-screen.P.M}",
             "fontSize": "{fs.XL-screen.P.M}",
@@ -1249,7 +1249,7 @@
         },
         "Medium - regular undeline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.XL-screen.P.M}",
             "fontSize": "{fs.XL-screen.P.M}",
@@ -1262,7 +1262,7 @@
         },
         "Medium - bold": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.XL-screen.P.M}",
             "fontSize": "{fs.XL-screen.P.M}",
@@ -1275,7 +1275,7 @@
         },
         "Medium - bold underline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.XL-screen.P.M}",
             "fontSize": "{fs.XL-screen.P.M}",
@@ -1288,7 +1288,7 @@
         },
         "Small - regular": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.XL-screen.P.S}",
             "fontSize": "{fs.XL-screen.P.S}",
@@ -1301,7 +1301,7 @@
         },
         "Small - regular underline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.XL-screen.P.S}",
             "fontSize": "{fs.XL-screen.P.S}",
@@ -1314,7 +1314,7 @@
         },
         "Small - bold": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.XL-screen.P.S}",
             "fontSize": "{fs.XL-screen.P.S}",
@@ -1327,7 +1327,7 @@
         },
         "Small - bold underline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.XL-screen.P.S}",
             "fontSize": "{fs.XL-screen.P.S}",
@@ -1340,7 +1340,7 @@
         },
         "x-Small - regular": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.XL-screen.P.XS}",
             "fontSize": "{fs.XL-screen.P.XS}",
@@ -1353,7 +1353,7 @@
         },
         "x-Small - regular underline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.regular}",
             "lineHeight": "{lh.XL-screen.P.XS}",
             "fontSize": "{fs.XL-screen.P.XS}",
@@ -1366,7 +1366,7 @@
         },
         "x-Small - bold": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.XL-screen.P.XS}",
             "fontSize": "{fs.XL-screen.P.XS}",
@@ -1379,7 +1379,7 @@
         },
         "x-Small - bold underline": {
           "value": {
-            "fontFamily": "{ff.nunito}",
+            "fontFamily": "{ff.OpenSans}",
             "fontWeight": "{fw.bold}",
             "lineHeight": "{lh.XL-screen.P.XS}",
             "fontSize": "{fs.XL-screen.P.XS}",
