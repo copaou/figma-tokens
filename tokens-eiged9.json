@@ -1853,7 +1853,7 @@
       "XL-screen": {
         "P": {
           "M": {
-            "value": "{lh.XL-screen.P.M}",
+            "value": "{lh.XL-screen.P.M} * 1.5",
             "type": "spacing"
           },
           "S": {
