@@ -1437,6 +1437,19 @@
           },
           "type": "typography"
         },
+        "Medium - italic": {
+          "value": {
+            "fontFamily": "{ff.archivo}",
+            "fontWeight": "{fw.italic}",
+            "lineHeight": "{lh.S-screen.UI.M}",
+            "fontSize": "{fs.S-screen.P.M}",
+            "letterSpacing": "{ls.1}",
+            "paragraphSpacing": "{ps.none}",
+            "textCase": "{tc.none}",
+            "textDecoration": "{td.none}"
+          },
+          "type": "typography"
+        },
         "Medium - bold": {
           "value": {
             "fontFamily": "{ff.archivo}",
@@ -1508,6 +1521,19 @@
           "value": {
             "fontFamily": "{ff.archivo}",
             "fontWeight": "{fw.regular}",
+            "lineHeight": "{lh.XL-screen.UI.M}",
+            "fontSize": "{fs.XL-screen.P.M}",
+            "letterSpacing": "{ls.1}",
+            "paragraphSpacing": "{ps.none}",
+            "textCase": "{tc.none}",
+            "textDecoration": "{td.none}"
+          },
+          "type": "typography"
+        },
+        "Medium - italic": {
+          "value": {
+            "fontFamily": "{ff.archivo}",
+            "fontWeight": "{fw.italic}",
             "lineHeight": "{lh.XL-screen.UI.M}",
             "fontSize": "{fs.XL-screen.P.M}",
             "letterSpacing": "{ls.1}",
