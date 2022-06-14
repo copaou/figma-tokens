@@ -1937,7 +1937,7 @@
       "S-screen": {
         "LR": {
           "M": {
-            "value": "round({screenBase.scrS} * 0.9)",
+            "value": "round({screenBase.scrS} * 1.2)",
             "type": "spacing"
           },
           "XS": {
@@ -1963,7 +1963,7 @@
             "type": "spacing"
           },
           "XS": {
-            "value": "round({screenBase.scrXL} * 0.5)",
+            "value": "round({screenBase.scrXL} * 0.7)",
             "type": "spacing"
           }
         },
@@ -1973,7 +1973,7 @@
             "type": "spacing"
           },
           "XS": {
-            "value": "round({screenBase.scrXL} * 0.35)",
+            "value": "round({screenBase.scrXL} * 0.5)",
             "type": "spacing"
           }
         }
