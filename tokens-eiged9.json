@@ -2162,7 +2162,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{Primary.400}",
+          "value": "{Primary.300}",
           "type": "color"
         }
       },
