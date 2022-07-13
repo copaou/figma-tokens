@@ -2441,9 +2441,21 @@
       }
     },
     "maxContentWidth": {
-      "value": "1020",
-      "type": "sizing",
-      "description": "This is the max width that text content should have"
+      "105cpl": {
+        "value": "1020",
+        "type": "sizing",
+        "description": "This is the max width that text content should have"
+      },
+      "95cpl": {
+        "value": "890",
+        "type": "sizing",
+        "description": "This is the max width that text content should have"
+      },
+      "75cpl": {
+        "value": "690",
+        "type": "sizing",
+        "description": "This is the max width that text content should have"
+      }
     }
   },
   "$themes": []
