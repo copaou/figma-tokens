@@ -2456,6 +2456,12 @@
         "type": "sizing",
         "description": "This is the max width that text content should have"
       }
+    },
+    "sideBarWidth": {
+      "95cpl": {
+        "value": "360",
+        "type": "sizing"
+      }
     }
   },
   "$themes": []
