@@ -2180,6 +2180,14 @@
         "dark": {
           "value": "{Tertiary.500 (Base)}",
           "type": "color"
+        },
+        "placeholder": {
+          "value": "#c3c3c3",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "#959595",
+          "type": "color"
         }
       },
       "inactive": {
@@ -2203,6 +2211,34 @@
       "border": {
         "formElements": {
           "value": "#c3c3c3",
+          "type": "color"
+        }
+      },
+      "formElements border": {
+        "default": {
+          "value": "#b0b7da",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#ffce00",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "#dbdbdb",
+          "type": "color"
+        }
+      },
+      "formElement icon": {
+        "default": {
+          "value": "#001689",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#ffce00",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "#959595",
           "type": "color"
         }
       }
