@@ -2166,23 +2166,13 @@
           "type": "color"
         }
       },
-      "formfield-border": {
-        "focus": {
-          "value": "{Primary.500 (Base)}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{Secondary.500 (Base)}",
-          "type": "color"
-        }
-      },
       "text": {
         "dark": {
           "value": "{Tertiary.500 (Base)}",
           "type": "color"
         },
         "placeholder": {
-          "value": "#c3c3c3",
+          "value": "{Grey.500 (Base)}",
           "type": "color"
         },
         "inactive": {
@@ -2204,12 +2194,6 @@
           "type": "color"
         },
         "line": {
-          "value": "#c3c3c3",
-          "type": "color"
-        }
-      },
-      "border": {
-        "formElements": {
           "value": "#c3c3c3",
           "type": "color"
         }
