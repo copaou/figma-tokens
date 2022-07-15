@@ -322,12 +322,12 @@
     "focus": {
       "control focus": {
         "value": {
-          "color": "#c21ab1",
-          "type": "dropShadow",
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "3"
+          "spread": "3",
+          "color": "{Secondary.500 (Base)}",
+          "type": "dropShadow"
         },
         "type": "boxShadow"
       }
