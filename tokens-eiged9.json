@@ -2172,7 +2172,7 @@
           "type": "color"
         },
         "placeholder": {
-          "value": "{Grey.500 (Base)}",
+          "value": "{Grey.400}",
           "type": "color"
         },
         "inactive": {
@@ -2200,11 +2200,11 @@
       },
       "formElements border": {
         "default": {
-          "value": "#b0b7da",
+          "value": "{Secondary.500 (Base)}",
           "type": "color"
         },
         "focus": {
-          "value": "#ffce00",
+          "value": "{Primary.500 (Base)}",
           "type": "color"
         },
         "inactive": {
