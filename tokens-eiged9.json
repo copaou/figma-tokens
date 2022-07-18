@@ -2218,7 +2218,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "#ffce00",
+          "value": "{Secondary.700}",
           "type": "color"
         },
         "inactive": {
