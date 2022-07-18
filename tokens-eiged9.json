@@ -2200,11 +2200,11 @@
       },
       "formElements border": {
         "default": {
-          "value": "{Secondary.500 (Base)}",
+          "value": "{Primary.500 (Base)}",
           "type": "color"
         },
         "focus": {
-          "value": "{Primary.500 (Base)}",
+          "value": "{Secondary.500 (Base)}",
           "type": "color"
         },
         "inactive": {
