@@ -2180,24 +2180,6 @@
           "type": "color"
         }
       },
-      "inactive": {
-        "fill": {
-          "value": "#f1f1f1",
-          "type": "color"
-        },
-        "fillDark": {
-          "value": "#6e6e6e",
-          "type": "color"
-        },
-        "text": {
-          "value": "#959595",
-          "type": "color"
-        },
-        "line": {
-          "value": "#c3c3c3",
-          "type": "color"
-        }
-      },
       "formElements border": {
         "default": {
           "value": "{Primary.100}",
