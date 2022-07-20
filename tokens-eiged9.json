@@ -2176,7 +2176,7 @@
           "type": "color"
         },
         "inactive": {
-          "value": "#959595",
+          "value": "{Grey.500 (Base)}",
           "type": "color"
         }
       },
@@ -2194,6 +2194,12 @@
           "type": "color"
         }
       },
+      "formElements background": {
+        "inactive": {
+          "value": "{Grey.200}",
+          "type": "color"
+        }
+      },
       "formElement icon": {
         "default": {
           "value": "#001689",
@@ -2204,7 +2210,7 @@
           "type": "color"
         },
         "inactive": {
-          "value": "#959595",
+          "value": "{Grey.500 (Base)}",
           "type": "color"
         }
       }
