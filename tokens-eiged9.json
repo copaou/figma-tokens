@@ -2190,7 +2190,7 @@
           "type": "color"
         },
         "inactive": {
-          "value": "#dbdbdb",
+          "value": "{Grey.300}",
           "type": "color"
         }
       },
@@ -2202,7 +2202,7 @@
       },
       "formElement icon": {
         "default": {
-          "value": "#001689",
+          "value": "{Primary.500 (Base)}",
           "type": "color"
         },
         "focus": {
