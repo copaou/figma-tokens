@@ -1743,7 +1743,9 @@
         "2XL": {
           "value": "{size.S-screen.2XL}",
           "type": "spacing"
-        },
+        }
+      },
+      "min": {
         "3XL": {
           "value": "{size.S-screen.3XL}",
           "type": "spacing"
@@ -2218,7 +2220,7 @@
     "semantic": {
       "S-screen": {
         "pagePaddings": {
-          "value": "{space.S-screen.3XL}",
+          "value": "{space.min.3XL}",
           "type": "spacing"
         }
       },
@@ -2472,5 +2474,10 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Global"
+    ]
+  }
 }
